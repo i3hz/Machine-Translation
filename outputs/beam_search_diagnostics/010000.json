@@ -1,0 +1,253 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -18.00275230407715
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "."
+            ],
+            "score": -18.029691696166992
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁general",
+                "▁assembly",
+                "."
+            ],
+            "score": -18.244693756103516
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁express",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -18.68698501586914
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "s",
+                "."
+            ],
+            "score": -20.881723403930664
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -22.43295669555664
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁committee",
+                "."
+            ],
+            "score": -23.029926300048828
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁council",
+                "."
+            ],
+            "score": -23.20263671875
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "'",
+                "s",
+                "▁report",
+                "."
+            ],
+            "score": -23.22146224975586
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁thank",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁general",
+                "▁assembly",
+                "."
+            ],
+            "score": -23.24750328063965
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMDQtMTJUMTE6NDk6NDUuNTM1NjQ3IiwgImgiOiAiQnJ1aCIsICJ1IjogInZlZHRoIn0="
+}

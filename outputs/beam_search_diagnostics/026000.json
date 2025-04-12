@@ -1,0 +1,246 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "."
+            ],
+            "score": -17.258190155029297
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁delegations",
+                "."
+            ],
+            "score": -17.391775131225586
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "."
+            ],
+            "score": -17.586042404174805
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁discussion",
+                "."
+            ],
+            "score": -17.75107192993164
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁meetings",
+                "."
+            ],
+            "score": -17.780895233154297
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁the",
+                "▁report",
+                "."
+            ],
+            "score": -21.59002113342285
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁the",
+                "▁debate",
+                "."
+            ],
+            "score": -21.77212905883789
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁which",
+                "▁regard",
+                "."
+            ],
+            "score": -21.782556533813477
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -22.011245727539062
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁like",
+                "▁to",
+                "▁speak",
+                "▁on",
+                "▁the",
+                "▁issue",
+                "▁of",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁which",
+                "▁regard",
+                "▁to",
+                "▁the",
+                "▁issue",
+                "."
+            ],
+            "score": -26.38304328918457
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMDQtMTJUMTI6MTg6MTkuMzAyOTUxIiwgImgiOiAiQnJ1aCIsICJ1IjogInZlZHRoIn0="
+}
